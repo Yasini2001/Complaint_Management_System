@@ -33,7 +33,7 @@
 
 - Admin Login:
 
-![Screenshot (506)](https://user-images.githubusercontent.com/71579731/95438987-a68c4900-0974-11eb-8c2e-86d463889bff.png)
+![Screenshot (501)](https://user-images.githubusercontent.com/71579731/95440226-50b8a080-0976-11eb-848a-3ad7dfb1972a.png)
 
 - Admin Dashboard:
 
@@ -53,29 +53,25 @@
 
 - Manage Authority:
 
-![Screenshot (507)](https://user-images.githubusercontent.com/71579731/95439081-c28fea80-0974-11eb-8efa-ad89672b0bda.png)
+![Screenshot (508)](https://user-images.githubusercontent.com/71579731/95439088-c58adb00-0974-11eb-96d1-e8ac0887d825.png)
 
 - Manage Categories:
 
-![Screenshot (508)](https://user-images.githubusercontent.com/71579731/95439088-c58adb00-0974-11eb-96d1-e8ac0887d825.png)
+![Screenshot (509)](https://user-images.githubusercontent.com/71579731/95439104-cc195280-0974-11eb-8069-3d9397e6d254.png)
 
 - User Login:
 
-![Screenshot (509)](https://user-images.githubusercontent.com/71579731/95439104-cc195280-0974-11eb-8069-3d9397e6d254.png)
-
-- User Dashboard:
-
 ![Screenshot (501)](https://user-images.githubusercontent.com/71579731/95439122-d20f3380-0974-11eb-8add-830f2ca36ce5.png)
 
-- Profile:
+- Dashboard:
 
 ![Screenshot (514)](https://user-images.githubusercontent.com/71579731/95439141-d8051480-0974-11eb-9656-a4f904467e90.png)
 
-- Update the Profile
+- view the Updation of complaints
 
 ![Screenshot (515)](https://user-images.githubusercontent.com/71579731/95439150-db000500-0974-11eb-88dc-6ba79e23043e.png)
 
-- Update the Complaint Details
+- Profile
 
 ![Screenshot (516)](https://user-images.githubusercontent.com/71579731/95439161-df2c2280-0974-11eb-9e03-9f2489046e0a.png)
 
