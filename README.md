@@ -1,4 +1,4 @@
-# Compliant_Management_System
+# Complaint_Management_System
 
 - Admin
 - Users
